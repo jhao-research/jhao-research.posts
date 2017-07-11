@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 建国的知识库
+subtitle: 探索机器学习与人工智能
 description: 自强不息 知行合一
 author: ifamile
 language: zh-Hans
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://jhao-research.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
